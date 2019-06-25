@@ -1,1 +1,1 @@
-{"@context": {"@version": 1.1}, "hangryActivity": {"@id": "https://anisha.pizza/openhumans-mindlogger-survey/activities/hangryActivity_schema.jsonld", "@type": "@id"}}
+{"@context": {"@version": 1.1, "hangryActivity": {"@id": "https://anisha.pizza/openhumans-mindlogger-survey/activities/hangryActivity_schema.jsonld", "@type": "@id"}}}
