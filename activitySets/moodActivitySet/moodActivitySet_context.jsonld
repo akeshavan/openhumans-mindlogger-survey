@@ -1,1 +1,1 @@
-{"@context": {"@version": 1.1, "Mood": {"@id": "https://anisha.pizza/openhumans-mindlogger-survey/activities/Mood_schema.jsonld", "@type": "@id"}}}
+{"@context": {"@version": 1.1, "favorite_foods": {"@id": "https://anisha.pizza/openhumans-mindlogger-survey/activities/favorite_foods_schema.jsonld", "@type": "@id"}}}
